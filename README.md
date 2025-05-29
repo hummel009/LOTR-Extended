@@ -1,3 +1,3 @@
 LOTR Extended – аддон к моду «Властелин колец» на Minecraft 1.7.10.
 
-Подробнее: https://lotrminecraftmod.fandom.com/ru/wiki/Genst_II
+Подробнее: https://lotrminecraftmod.fandom.com/ru/wiki/LOTR_Extended
